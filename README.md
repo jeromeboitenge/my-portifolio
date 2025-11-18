@@ -3,7 +3,7 @@
 <!-- ======================================= -->
 <p align="center">
   <img 
-    src="https://your-banner-url-here"
+    src="/images/Nzaramyimana Jerome.jpeg"
     alt="Jerome Boitenge Banner"
     width="100%"
     style="border-radius: 20px; box-shadow: 0 8px 25px rgba(108,99,255,0.25);" 
