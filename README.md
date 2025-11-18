@@ -1,24 +1,121 @@
-<!-- ================== BANNER IMAGE ================== -->
+<!-- ======================================= -->
+<!--            BEAUTIFUL BANNER             -->
+<!-- ======================================= -->
 <p align="center">
-  <img src="https://your-banner-url-here" alt="Jerome Boitenge Banner" width="100%" style="border-radius: 12px;"/>
+  <img 
+    src="https://your-banner-url-here"
+    alt="Jerome Boitenge Banner"
+    width="100%"
+    style="border-radius: 20px; box-shadow: 0 8px 25px rgba(108,99,255,0.25);" 
+  />
 </p>
 
-<!-- ================== PROFILE PHOTO ================== -->
+<!-- ======================================= -->
+<!--         PROFILE PHOTO WITH RING         -->
+<!-- ======================================= -->
 <p align="center">
-  <img src="images/Nzaramyimana Jerome.jpeg" alt="NZARAMYIMANA Jerome" width="150" style="border-radius: 50%; border: 4px solid #6C63FF;"/>
+  <img 
+    src="images/Nzaramyimana Jerome.jpeg"
+    alt="NZARAMYIMANA Jerome"
+    width="160"
+    style="
+      border-radius: 50%;
+      border: 5px solid white;
+      box-shadow: 0 0 0 4px #6C63FF, 0 8px 20px rgba(0,0,0,0.15);
+    "
+  />
 </p>
 
+<!-- ======================================= -->
+<!--                 NAME TITLE              -->
+<!-- ======================================= -->
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #6C63FF, #00C9FF); -webkit-background-clip: text; color: transparent;">
+  <span 
+    style="
+      background: linear-gradient(to right, #6C63FF, #00C9FF);
+      -webkit-background-clip: text;
+      color: transparent;
+      font-size: 40px;
+      font-weight: 800;
+    "
+  >
     👋 Hi, I'm <strong>Jerome Boitenge</strong>
   </span>
 </h1>
 
+<!-- ======================================= -->
+<!--                SUBTITLE                 -->
+<!-- ======================================= -->
 <p align="center">
-  <span style="font-size: 18px; color: #555;">
-    <strong>Full-Stack Software Engineer</strong>
+  <span style="font-size: 18px; color: #444; font-weight: 600;">
+    Full-Stack Software Engineer
   </span><br/>
-  <span style="color:#6C63FF;">React • Next.js • Node.js • NestJS • MongoDB • MySQL • Prisma/Neon</span>
+
+  <span style="color:#6C63FF; font-size: 15px;">
+    React • Next.js • Node.js • NestJS • MongoDB • MySQL • Prisma/Neon
+  </span>
+</p>
+
+---
+
+<!-- ======================================= -->
+<!--               BADGES SECTION            -->
+<!-- ======================================= -->
+<p align="center" style="margin-top: 10px;">
+  <span style="
+    display:inline-block;
+    padding:8px 14px;
+    margin:4px;
+    border-radius:50px;
+    background:linear-gradient(90deg,#6C63FF,#00C9FF);
+    color:#fff;
+    font-size:13px;
+    font-weight:600;
+  ">React</span>
+
+  <span style="
+    display:inline-block;
+    padding:8px 14px;
+    margin:4px;
+    border-radius:50px;
+    background:linear-gradient(90deg,#6C63FF,#00C9FF);
+    color:#fff;
+    font-size:13px;
+    font-weight:600;
+  ">Next.js</span>
+
+  <span style="
+    display:inline-block;
+    padding:8px 14px;
+    margin:4px;
+    border-radius:50px;
+    background:linear-gradient(90deg,#6C63FF,#00C9FF);
+    color:#fff;
+    font-size:13px;
+    font-weight:600;
+  ">Node.js</span>
+
+  <span style="
+    display:inline-block;
+    padding:8px 14px;
+    margin:4px;
+    border-radius:50px;
+    background:linear-gradient(90deg,#6C63FF,#00C9FF);
+    color:#fff;
+    font-size:13px;
+    font-weight:600;
+  ">NestJS</span>
+
+  <span style="
+    display:inline-block;
+    padding:8px 14px;
+    margin:4px;
+    border-radius:50px;
+    background:linear-gradient(90deg,#6C63FF,#00C9FF);
+    color:#fff;
+    font-size:13px;
+    font-weight:600;
+  ">MongoDB</span>
 </p>
 
 ---
@@ -81,4 +178,3 @@ https://www.linkedin.com/in/nzaramyimana-jerome-961714391
 
 ## ⭐ <span style="color:#6C63FF;">Support My Work</span>  
 If you enjoy my projects, please ⭐ my repositories — it motivates me to keep building amazing things! 🚀💜
-
