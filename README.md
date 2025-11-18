@@ -5,7 +5,7 @@
 
 <!-- ================== PROFILE PHOTO ================== -->
 <p align="center">
-  <img src="Nzaramyimana Jerome.jpeg" alt="NZARAMYIMANA Jerome" width="150" style="border-radius: 50%;"/>
+  <img src="images/Nzaramyimana Jerome.jpeg" alt="NZARAMYIMANA Jerome" width="150" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Jerome Boitenge</strong></h1>
