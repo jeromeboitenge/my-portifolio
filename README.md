@@ -5,7 +5,7 @@
 
 <!-- ================== PROFILE PHOTO ================== -->
 <p align="center">
-  <img src="https://your-profile-photo-url-here" alt="Jerome Boitenge" width="150" style="border-radius: 50%;"/>
+  <img src="Nzaramyimana Jerome.jpeg" alt="NZARAMYIMANA Jerome" width="150" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Jerome Boitenge</strong></h1>
@@ -46,7 +46,7 @@ I build applications that solve real-world problems — from event management sy
 ### 🔹 **Advanced Hotel Management System**  
 A powerful platform that manages bookings, services, payments, and staff roles.
 
-### 🔹 **Event Management System (Giraffe Space)**  
+### 🔹 **Event Management System (HitamoSpace)**  
 Supports event creation, approvals, scheduling, registration with QR, finance & analytics.
 
 ### 🔹 **Tourism & Travel Platform**  
@@ -62,9 +62,9 @@ A digital guide showcasing Rwandan destinations with reviews and map integration
 ---
 
 ## 🤝 Connect With Me  
-📧 Email: *your email here*  
-🌐 Portfolio: *your link here*  
-🔗 LinkedIn: *your link here*  
+📧 Email: jeromeboitenge@gmail.com  
+🌐 Portfolio:https://jeromeboitenge.github.io/my-portifolio/
+🔗 LinkedIn:https://www.linkedin.com/in/nzaramyimana-jerome-961714391  
 
 ---
 
