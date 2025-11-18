@@ -1,23 +1,29 @@
 <!-- ================== BANNER IMAGE ================== -->
 <p align="center">
-  <img src="https://your-banner-url-here" alt="Jerome Boitenge Banner" width="100%" />
+  <img src="https://your-banner-url-here" alt="Jerome Boitenge Banner" width="100%" style="border-radius: 12px;"/>
 </p>
 
 <!-- ================== PROFILE PHOTO ================== -->
 <p align="center">
-  <img src="images/Nzaramyimana Jerome.jpeg" alt="NZARAMYIMANA Jerome" width="150" style="border-radius: 50%;"/>
+  <img src="images/Nzaramyimana Jerome.jpeg" alt="NZARAMYIMANA Jerome" width="150" style="border-radius: 50%; border: 4px solid #6C63FF;"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm <strong>Jerome Boitenge</strong></h1>
+<h1 align="center">
+  <span style="background: linear-gradient(to right, #6C63FF, #00C9FF); -webkit-background-clip: text; color: transparent;">
+    👋 Hi, I'm <strong>Jerome Boitenge</strong>
+  </span>
+</h1>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer</strong><br/>
-  React • Next.js • Node.js • NestJS • MongoDB • MySQL • Prisma/Neon
+  <span style="font-size: 18px; color: #555;">
+    <strong>Full-Stack Software Engineer</strong>
+  </span><br/>
+  <span style="color:#6C63FF;">React • Next.js • Node.js • NestJS • MongoDB • MySQL • Prisma/Neon</span>
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🚀 <span style="color:#6C63FF;">About Me</span>  
 I’m a passionate Software Engineer who loves transforming ideas into **clean, scalable, and impactful digital solutions**.  
 I build applications that solve real-world problems — from event management systems to tourism platforms and advanced hotel management systems.
 
@@ -25,7 +31,7 @@ I build applications that solve real-world problems — from event management sy
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ <span style="color:#6C63FF;">Tech Stack</span>  
 
 ### **Frontend**
 🔥 React • Next.js • Tailwind CSS  
@@ -41,7 +47,7 @@ I build applications that solve real-world problems — from event management sy
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 <span style="color:#6C63FF;">Featured Projects</span>  
 
 ### 🔹 **Advanced Hotel Management System**  
 A powerful platform that manages bookings, services, payments, and staff roles.
@@ -54,19 +60,25 @@ A digital guide showcasing Rwandan destinations with reviews and map integration
 
 ---
 
-## 📈 Currently Working On  
+## 📈 <span style="color:#6C63FF;">Currently Working On</span>  
 - Scaling my **hotel & event systems**  
 - Improving **Next.js + Prisma workflows**  
 - Deploying full-stack apps in the cloud  
 
 ---
 
-## 🤝 Connect With Me  
-📧 Email: jeromeboitenge@gmail.com  
-🌐 Portfolio:https://jeromeboitenge.github.io/my-portifolio/
-🔗 LinkedIn:https://www.linkedin.com/in/nzaramyimana-jerome-961714391  
+## 🤝 <span style="color:#6C63FF;">Connect With Me</span>  
+📧 **Email:**  
+`jeromeboitenge@gmail.com`  
+
+🌐 **Portfolio:**  
+https://jeromeboitenge.github.io/my-portifolio/  
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/nzaramyimana-jerome-961714391  
 
 ---
 
-## ⭐ Support My Work  
-If you enjoy my projects, please ⭐ my repositories — it motivates me to keep building amazing things! 🚀
+## ⭐ <span style="color:#6C63FF;">Support My Work</span>  
+If you enjoy my projects, please ⭐ my repositories — it motivates me to keep building amazing things! 🚀💜
+
