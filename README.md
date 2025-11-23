@@ -1,4 +1,3 @@
-
 <p align="center">
   <img 
     src="images/Nzaramyimana Jerome.jpeg"
@@ -59,7 +58,7 @@
     font-weight:600;
   ">React</span>
 
-  <span style="
+<span style="
     display:inline-block ;
     padding:8px 14px;
     margin:4px;
@@ -70,7 +69,7 @@
     font-weight:600;
   ">Next.js</span>
 
-  <span style="
+<span style="
     display:inline-block;
     padding:8px 14px;
     margin:4px;
@@ -81,7 +80,7 @@
     font-weight:600;
   ">Node.js</span>
 
-  <span style="
+<span style="
     display:inline-block;
     padding:8px 14px;
     margin:4px;
@@ -92,7 +91,7 @@
     font-weight:600;
   ">NestJS</span>
 
-  <span style="
+<span style="
     display:inline-block;
     padding:8px 14px;
     margin:4px;
@@ -102,11 +101,13 @@
     font-size:13px;
     font-weight:600;
   ">MongoDB</span>
+
 </p>
 
 ---
 
-## 🚀 <span style="color:#6C63FF;">About Me</span>  
+## 🚀 <span style="color:#6C63FF;">About Me</span>
+
 I’m a passionate Software Engineer who loves transforming ideas into **clean, scalable, and impactful digital solutions**.  
 I build applications that solve real-world problems — from event management systems to tourism platforms and advanced hotel management systems.
 
@@ -114,53 +115,63 @@ I build applications that solve real-world problems — from event management sy
 
 ---
 
-## 🛠️ <span style="color:#6C63FF;">Tech Stack</span>  
+## 🛠️ <span style="color:#6C63FF;">Tech Stack</span>
 
 ### **Frontend**
-🔥 React • Next.js • Tailwind CSS  
+
+🔥 React • Next.js • Tailwind CSS
 
 ### **Backend**
-⚙️ Node.js • NestJS • Express.js  
+
+⚙️ Node.js • NestJS • Express.js
 
 ### **Databases**
-🗄️ MongoDB • MySQL • Prisma • Neon  
+
+🗄️ MongoDB • MySQL • Prisma • Neon
 
 ### **Tools**
-🧰 Git • Postman • Docker (Basic) • Ubuntu/Linux  
+
+🧰 Git • Postman • Docker (Basic) • Ubuntu/Linux
 
 ---
 
-## 🌟 <span style="color:#6C63FF;">Featured Projects</span>  
+## 🌟 <span style="color:#6C63FF;">Featured Projects</span>
 
-### 🔹 **Advanced Hotel Management System**  
+### 🔹 **Advanced Hotel Management System**
+
 A powerful platform that manages bookings, services, payments, and staff roles.
 
-### 🔹 **Event Management System (HitamoSpace)**  
+### 🔹 **Event Management System (HitamoSpace)**
+
 Supports event creation, approvals, scheduling, registration with QR, finance & analytics.
 
-### 🔹 **Tourism & Travel Platform**  
+### 🔹 **Tourism & Travel Platform**
+
 A digital guide showcasing Rwandan destinations with reviews and map integration.
 
 ---
 
-## 📈 <span style="color:#6C63FF;">Currently Working On</span>  
-- Scaling my **hotel & event systems**  
-- Improving **Next.js + Prisma workflows**  
-- Deploying full-stack apps in the cloud  
+## 📈 <span style="color:#6C63FF;">Currently Working On</span>
+
+- Scaling my **hotel & event systems**
+- Improving **Next.js + Prisma workflows**
+- Deploying full-stack apps in the cloud
 
 ---
 
-## 🤝 <span style="color:#6C63FF;">Connect With Me</span>  
+## 🤝 <span style="color:#6C63FF;">Connect With Me</span>
+
 📧 **Email:**  
-`jeromeboitenge@gmail.com`  
+`jeromeboitenge@gmail.com`
 
 🌐 **Portfolio:**  
-https://jeromeboitenge.github.io/my-portifolio/  
+https://jeromeboitenge.github.io/my-portifolio/
 
 🔗 **LinkedIn:**  
-https://www.linkedin.com/in/nzaramyimana-jerome-961714391  
+https://www.linkedin.com/in/nzaramyimana-jerome-961714391
 
 ---
 
-## ⭐ <span style="color:#6C63FF;">Support My Work</span>  
-If you enjoy my projects, please ⭐ my repositories — it motivates me to keep building amazing things! 🚀💜
+## ⭐ <span style="color:#6C63FF;">Support My Work</span>
+
+If you enjoy my projects, please ⭐ my repositories it motivates me to keep building amazing things! 🚀💜
