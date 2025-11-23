@@ -60,7 +60,7 @@
   ">React</span>
 
   <span style="
-    display:inline-block;
+    display:inline-block ;
     padding:8px 14px;
     margin:4px;
     border-radius:50px;
